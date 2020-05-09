@@ -1,0 +1,3 @@
+D:/TRABAJO FINAL TS/TresColasErlang/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TRABAJO FINAL TS/TresColasErlang/cmake-build-debug/CMakeFiles/TresColasErlang.dir
+D:/TRABAJO FINAL TS/TresColasErlang/cmake-build-debug/CMakeFiles/rebuild_cache.dir

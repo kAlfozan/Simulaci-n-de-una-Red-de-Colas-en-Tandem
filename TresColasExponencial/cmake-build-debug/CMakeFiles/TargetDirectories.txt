@@ -1,0 +1,3 @@
+D:/TRABAJO FINAL TS/TresColasExponencial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/TRABAJO FINAL TS/TresColasExponencial/cmake-build-debug/CMakeFiles/TresColasExponencial.dir
+D:/TRABAJO FINAL TS/TresColasExponencial/cmake-build-debug/CMakeFiles/edit_cache.dir
